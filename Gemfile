@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 4.0", ">= 4.0.0"
 
+gem 'webrick'
+
 group :jekyll_plugins do
   # If you have any plugins, put them here!
   # gem "jekyll-xxx", "~> x.y"
