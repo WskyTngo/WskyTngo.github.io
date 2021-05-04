@@ -15,7 +15,7 @@ timezone: America/New_York
 # --------------------------
 title: Zero                          # the main title
 
-tagline:    # it will display as the sub-title
+tagline: For open, tolerant discussion   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
