@@ -15,7 +15,7 @@ timezone: America/New_York
 # --------------------------
 title: Zero                          # the main title
 
-tagline: For open, tolerant discussion   # it will display as the sub-title
+tagline: Thoughts across the spectrum  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   An opinion blog for rational, logical, and 
@@ -33,7 +33,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Wsky Tngo
+  name: WskyTngo
   email: Wsky_Tngo@protonmail.com
   links:
     # The first element serves as the copyright owner's link
