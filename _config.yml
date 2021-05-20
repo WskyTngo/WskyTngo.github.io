@@ -18,9 +18,8 @@ title: Zero                          # the main title
 tagline: Thoughts across the spectrum  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  An opinion blog for rational, logical, and 
-  open-minded discussions. And maybe some 
-  nonsense here and there for kicks.
+  A place I use to offload thoughts, ideas,
+  emotions, and whatever else is on my mind.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://WskyTngo.github.io'
